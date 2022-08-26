@@ -1,1 +1,1 @@
-echo REAME
+tests
